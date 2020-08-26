@@ -10,3 +10,4 @@
 * Clean Excel Files
     * Module (Code from Excel VBA editor)
     * forMacro.xlsx (For testing, sorry for german titels in the sheets)
+         * Big Data added
